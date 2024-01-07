@@ -1,0 +1,19 @@
+h1 {
+    background-color: brown;
+    text-align: center;
+}
+
+.red {
+    background-color: red;
+}
+
+
+.aqua.background {
+    background-color:aqua;
+    color: grey;
+}
+
+#black-text,
+li {
+    color: black;
+}
